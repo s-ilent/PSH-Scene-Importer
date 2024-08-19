@@ -1,0 +1,15 @@
+{
+  "name": "pshsceneimporter",
+  "displayName": "pshsceneimporter",
+  "version": "0.0.1",
+  "description": "A Unity importer for PS Home .scene files. ",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "s-ilent",
+    "email": "silent@noemail.net"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+}
